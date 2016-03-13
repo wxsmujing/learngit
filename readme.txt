@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git tracks changes of files.
 cerating a new branch is quick and simple.
+switched to a new branch 'dev'
